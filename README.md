@@ -7,5 +7,5 @@ This repository contains my solutions to LeetCode problems.
 
 ## LinkedList
 
-1. 002: Add Two Numbers — https://leetcode.com/problems/add-two-numbers/
+1. **002: Add Two Numbers** — https://leetcode.com/problems/add-two-numbers/
 
