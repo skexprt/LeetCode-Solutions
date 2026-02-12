@@ -6,7 +6,7 @@ This repository contains my solutions to LeetCode problems.
 1. **001: Two Sum** — https://leetcode.com/problems/two-sum/
 
 ## Binary Search
-1. **004: Median of Two Sorted Arrays** - https://leetcode.com/problems/median-of-two-   sorted-arrays/
+1. **004: Median of Two Sorted Arrays** - https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 ## LinkedList
 
